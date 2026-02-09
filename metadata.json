@@ -1,0 +1,7 @@
+{
+  "name": "RAS Research Companion",
+  "description": "A comprehensive AI-powered research and current affairs tool specifically designed for RAS (Rajasthan Administrative Services) aspirants, featuring state-specific news, research deep-dives, and resource tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
